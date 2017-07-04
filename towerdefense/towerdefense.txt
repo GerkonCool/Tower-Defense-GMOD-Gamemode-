@@ -1,0 +1,17 @@
+"towerdefense"
+{
+	"base"		"base"
+	"title"		"Tower Defense"
+	"maps"		"^td_|^gm_"
+	"menusystem"	"1"
+
+	"settings"
+	1
+	{
+			"name"		"friendlyfire"
+			"text"		"friendly_fire"
+			"help"		"If enabled, you can damage your friends"
+			"type"		"CheckBox"
+			"default"	"1"
+	}
+}
